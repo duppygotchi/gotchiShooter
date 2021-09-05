@@ -1,5 +1,32 @@
 # GotchiShooter! A game based on the Aavegotchi minigame template
 
+## Description: 
+A survival shooting game where the goal is to keep your Aavegotchi alive from the endless *SUSHIBOMBS* attacks and the evil *LIQUIDATOR*.
+
+## Controls:
+Move: WASD keys or Arrow keys
+Fire: SPACE key
+
+## Gameplay:
+SHOTS: Your number of shots is counted.
+GHST token: recharges the number of shots by 1. A new set appears when all the GHST tokens are taken.
+SUSHIBOMBS: can be shot down and adds to the score.
+LIQUIDATOR: can be shot down and adds to the score. The Liquidator is hungry and eats the sushibombs (less points for you! ngmi!). But then again, it can offer some protection from the sushibombs. Use its moves to your advantage! But be careful not to let the Liquidator come too close as it will eat you!
+
+The enemies speed increases after several score thresholds (100, 200, 400).
+
+
+## Details:
+Your Aavegotchi's properties are reflected in the game (factors are adjusted for each use). These are:
+
+ENERGY affects your MOVEMENT SPEED (the higher the value the faster the gotchi)
+AGGRESSION affects your NUMBER OF SHOTS (exact same value)
+SPOOKINESS affects the NUMBER OF SUSHIBOMBS (the spookier the less sushibombs)
+BRAIN SIZE affects the NUMBER OF GHST (the less brain the less ghst)
+
+
+
+# The Aavegotchi minigame template (original):
 The official Aavegotchi minigame template. This template allows you to create your own Aavegotchi minigames without any prior knowledge of web3. A basic understanding of Javascript and Typescript is necessary.
 
 ![Screenshot 2021-06-22 at 16 14 35](https://user-images.githubusercontent.com/44173285/129406574-110c347d-803b-4e6d-90d1-66346f379844.png)

@@ -5,12 +5,16 @@ A survival shooting game where the goal is to keep your Aavegotchi alive from th
 
 ## Controls:
 Move: WASD keys or Arrow keys
+
 Fire: SPACE key
 
 ## Gameplay:
 SHOTS: Your number of shots is counted.
+
 GHST token: recharges the number of shots by 1. A new set appears when all the GHST tokens are taken.
+
 SUSHIBOMBS: can be shot down and adds to the score.
+
 LIQUIDATOR: can be shot down and adds to the score. The Liquidator is hungry and eats the sushibombs (less points for you! ngmi!). But then again, it can offer some protection from the sushibombs. Use its moves to your advantage! But be careful not to let the Liquidator come too close as it will eat you!
 
 The enemies speed increases after several score thresholds (100, 200, 400).
@@ -20,8 +24,11 @@ The enemies speed increases after several score thresholds (100, 200, 400).
 Your Aavegotchi's properties are reflected in the game (factors are adjusted for each use). These are:
 
 ENERGY affects your MOVEMENT SPEED (the higher the value the faster the gotchi)
+
 AGGRESSION affects your NUMBER OF SHOTS (exact same value)
+
 SPOOKINESS affects the NUMBER OF SUSHIBOMBS (the spookier the less sushibombs)
+
 BRAIN SIZE affects the NUMBER OF GHST (the less brain the less ghst)
 
 

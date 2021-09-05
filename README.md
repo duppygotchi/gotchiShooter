@@ -1,4 +1,4 @@
-# Aavegotchi minigame template
+# GotchiShooter! A game based on the Aavegotchi minigame template
 
 The official Aavegotchi minigame template. This template allows you to create your own Aavegotchi minigames without any prior knowledge of web3. A basic understanding of Javascript and Typescript is necessary.
 

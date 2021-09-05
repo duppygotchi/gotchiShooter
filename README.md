@@ -1,4 +1,6 @@
-# GotchiShooter! A game based on the Aavegotchi minigame template
+# GotchiShooter! A game based on the Aavegotchi minigame template 
+
+## Author: Duppy Gotchi
 
 ## Description: 
 A survival shooting game where the goal is to keep your Aavegotchi alive from the endless *SUSHIBOMBS* attacks and the evil *LIQUIDATOR*.
